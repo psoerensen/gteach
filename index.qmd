@@ -44,7 +44,7 @@ Study allele and genotype frequencies, Hardy–Weinberg equilibrium, genetic div
 
 This module explores how genomic and multi-omics data can be used to understand complex biological systems. Topics include sequencing technologies, integration of molecular data, genome-wide association studies (GWAS), network models, and machine learning approaches for analyzing biological data.
 
-[Go to Course →](genomics-systems-bioinfo/)
+[Go to Course →](https://psoerensen.github.io/genomics-systems-bioinfo/)
 
 :::
 

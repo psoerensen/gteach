@@ -3,6 +3,10 @@ title: "Genomics, Systems Biology & Bioinformatics"
 subtitle: "Molecular Data Integration and Computational Modeling"
 ---
 
+::: {.callout-note}
+This course now has its own [website](https://psoerensen.github.io/genomics-systems-bioinfo/) and [GitHub repository](https://github.com/psoerensen/genomics-systems-bioinfo). Use the standalone course site for current materials.
+:::
+
 ## Course Overview
 
 This course provides a conceptual and computational framework for analyzing molecular data across biological scales, from genome to transcriptome to systems-level organization.
