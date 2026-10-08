@@ -151,7 +151,7 @@ Instructors are welcome to:
 
 Repository:
 
-https://github.com/psoerensen/qgteach
+https://github.com/psoerensen/gteach
 
 
 ## 📫 Contact

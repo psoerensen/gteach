@@ -1,4 +1,4 @@
-# qgteach
+# gteach
 
 ![Quarto](https://img.shields.io/badge/built%20with-Quarto-blue)
 ![R](https://img.shields.io/badge/language-R-blue)
@@ -15,12 +15,12 @@ This repository contains modular course materials developed using **R** and **Qu
 The repository also provides tools for creating new courses and generating narrated lecture slides.
 
 Website  
-https://psoerensen.github.io/qgteach/
+https://psoerensen.github.io/gteach/
 
 ## Repository Structure
 
 ```text
-qgteach/
+gteach/
 
   _quarto.yml
   index.qmd

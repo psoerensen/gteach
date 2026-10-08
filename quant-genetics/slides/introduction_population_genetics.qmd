@@ -5700,7 +5700,7 @@ to count transmission paths.
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const backBtn = document.createElement("a");
-  backBtn.href = "https://psoerensen.github.io/qgteach/quant-genetics/";
+  backBtn.href = "https://psoerensen.github.io/gteach/quant-genetics/";
   backBtn.target = "_self";
   backBtn.textContent = "← Back to Main Page";
   backBtn.style.cssText = `
