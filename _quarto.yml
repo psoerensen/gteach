@@ -10,8 +10,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Quantitative & Population Genetics"
-        href: quant-genetics/
+      - text: "Quantitative Genetics"
+        href: https://psoerensen.github.io/quantitative-genetics/
+      - text: "Population Genetics"
+        href: https://psoerensen.github.io/population-genetics/
       - text: "Genomics, Systems Biology & Bioinformatics"
         href: genomics-systems-bioinfo/
       - text: "Bayesian Linear Regression"

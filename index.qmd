@@ -1,10 +1,10 @@
 ---
 title: "Teaching Materials"
-subtitle: "Quantitative Genetics, Genomics, and Statistical Modeling"
+subtitle: "Population Genetics, Quantitative Genetics, Genomics, and Statistical Modeling"
 toc: false
 ---
 
-This site provides teaching materials, lecture notes, slides, and computational demonstrations in quantitative genetics, genomics, and statistical modeling. All materials are reproducible and developed using R and Quarto.
+This site provides teaching materials, lecture notes, slides, and computational demonstrations in population genetics, quantitative genetics, genomics, and statistical modeling. All materials are reproducible and developed using R and Quarto.
 
 ---
 
@@ -16,14 +16,27 @@ The modules cover complementary aspects of quantitative genetics, genomics, and 
 
 ::: {.column width="50%"}
 
-### 📘 Quantitative & Population Genetics
+### 📘 Quantitative Genetics
 
-This module provides the theoretical foundations of population and quantitative genetics, with emphasis on the mathematical and statistical principles used to study genetic variation and complex traits. The material examines how genetic variation arises and is maintained in populations, how evolutionary forces shape allele frequencies, and how genetic and environmental factors contribute to phenotypic variation. Classical population genetics is integrated with quantitative trait analysis and modern genomic approaches to mapping complex traits.
+Study phenotypic variation, genetic variance, heritability and breeding values. Work through mouse-data examples, prediction, selection and mating plans, breeding programmes, genotype–environment interactions and association mapping.
 
-
-[Go to Course →](quant-genetics/)
+[Go to Course →](https://psoerensen.github.io/quantitative-genetics/)
 
 :::
+
+::: {.column width="50%"}
+
+### 🌱 Population Genetics
+
+Study allele and genotype frequencies, Hardy–Weinberg equilibrium, genetic diversity and population structure. Explore mutation, migration, drift, selection and linkage disequilibrium, then connect these models to conservation, selective sweeps and coalescent history.
+
+[Go to Course →](https://psoerensen.github.io/population-genetics/)
+
+:::
+
+:::
+
+::: {.columns}
 
 ::: {.column width="50%"}
 
@@ -35,10 +48,6 @@ This module explores how genomic and multi-omics data can be used to understand 
 
 :::
 
-:::
-
-::: {.columns}
-
 ::: {.column width="50%"}
 
 ### 📊 Bayesian Linear Regression
@@ -49,8 +58,11 @@ This module introduces Bayesian linear regression as a framework for statistical
 
 :::
 
-::: {.column width="50%"}
+:::
 
+::: {.columns}
+
+::: {.column width="50%"}
 
 ### 🧬 Genome-Wide Association Studies (GWAS)
 
